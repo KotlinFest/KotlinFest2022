@@ -27,7 +27,7 @@ KotlinFestに参加するすべての人は下記の行動規範を守ること�
 
 ---
 
-この行動規範は、CC-BY-3.0で公開されている[Droidcon NYCのCode of Conduct](http://droidcon.nyc/code-of-conduct/)および、[DroidKaigiのCode of Conduct](http://www.association.droidkaigi.jp/code-of-conduct.html)を元に作成しています。
+この行動規範は、CC-BY-3.0で公開されている[Droidcon NYCのCode of Conduct](https://nyc.droidcon.com/code-of-conduct/)および、[DroidKaigiのCode of Conduct](https://portal.droidkaigi.jp/about/code-of-conduct)を元に作成しています。
 
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US).
 

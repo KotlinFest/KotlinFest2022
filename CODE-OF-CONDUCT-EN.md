@@ -12,7 +12,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 --- 
 
-This work is based on [Droidcon NYC Code of Conduct](http://droidcon.nyc/code-of-conduct/) and [DroidKaigi Code of Conduct](http://www.association.droidkaigi.jp/en/code-of-conduct.html) which are licensed under CC-BY-3.0.
+This work is based on [Droidcon NYC Code of Conduct](https://nyc.droidcon.com/code-of-conduct/) and [DroidKaigi Code of Conduct](https://portal.droidkaigi.jp/en/about/code-of-conduct) which are licensed under CC-BY-3.0.
 
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US).
 
